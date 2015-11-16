@@ -15,3 +15,4 @@
 //= require turbolinks
 
 //= require init
+//= require page
